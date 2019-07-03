@@ -1,0 +1,12 @@
+{
+	"id": 6227175,
+	"epoch_second": 1562157537,
+	"problem_id": "abc087_b",
+	"contest_id": "abs",
+	"user_id": "sigh_kgr",
+	"language": "C# (Mono 4.6.2.0)",
+	"point": 200,
+	"length": 1021,
+	"result": "AC",
+	"execution_time": 21
+}
