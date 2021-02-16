@@ -1,0 +1,12 @@
+{
+	"id": 20215164,
+	"epoch_second": 1613481353,
+	"problem_id": "agc004_a",
+	"contest_id": "agc004",
+	"user_id": "sigh_kgr",
+	"language": "C# (.NET Core 3.1.201)",
+	"point": 200,
+	"length": 471,
+	"result": "AC",
+	"execution_time": 95
+}
