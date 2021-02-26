@@ -1,0 +1,12 @@
+{
+	"id": 20498290,
+	"epoch_second": 1614342028,
+	"problem_id": "code_festival_2017_qualb_b",
+	"contest_id": "code-festival-2017-qualb",
+	"user_id": "sigh_kgr",
+	"language": "C# (.NET Core 3.1.201)",
+	"point": 200,
+	"length": 1101,
+	"result": "AC",
+	"execution_time": 172
+}
